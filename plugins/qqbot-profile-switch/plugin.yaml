@@ -1,0 +1,8 @@
+name: qqbot-profile-switch
+version: 1.0.0
+kind: standalone
+description: >
+  Add /profile-switch command (list + switch Hermes profiles) to QQ Bot
+  and other text-based chat channels. Also works alongside the
+  command-profile hook for full /profile support.
+author: Hermes User

@@ -1,0 +1,6 @@
+name: command-profile
+description: >
+  Extend the built-in /profile command with profile switching support
+  (list profiles, switch to another profile).
+events:
+  - "command:profile"
